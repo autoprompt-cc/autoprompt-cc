@@ -17,4 +17,4 @@ It's really easy to use, too. The website is simple, you just type in your reque
 Just remember, the best writing comes from your own thoughts and creativity! Use this tool to help you, but make sure the final work is yours!
 
 ## website
-[autoprompt](https://autoprompt.cc/)
+[autoprompt.cc](https://autoprompt.cc/)
